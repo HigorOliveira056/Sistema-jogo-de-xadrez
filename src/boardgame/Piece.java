@@ -5,7 +5,7 @@ public class Piece {
 	private Board board;
 	public Piece(Board board) {
 		this.board = board;
-		this.position = null;
+		position = null;
 	}
 	
 	protected Board getBoard() {
