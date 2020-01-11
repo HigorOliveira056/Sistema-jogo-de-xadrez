@@ -10,6 +10,8 @@ import chess.ChessPosition;
 
 public class Program {
 	public static void main(String[] args) {
+		System.out.println("hello World");
+		
 		Scanner sc = new Scanner(System.in);
 		ChessMatch cm = new ChessMatch();
 		
@@ -40,6 +42,7 @@ public class Program {
 				sc.nextLine();
 			}
 		}
+		
 		
 		
 	}
